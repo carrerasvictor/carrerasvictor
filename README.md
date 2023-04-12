@@ -1,8 +1,11 @@
-### Hi there 👋
+  
+### Yo! my name is Victor Carreras, enjoy my codes 😁
 
 ##
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrerasvictor&show_icons=true&theme=codeSTACKr&bg_color=000&icon_color=f3336b&title_color=fbaf2b)
+<img align="right" alt="Oni-gif" height="200"  src="github gif.gif">
+
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -10,9 +13,6 @@
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="gif-gif" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/2466252/screenshots/13042812/media/c4c75f34ddade9bbf321d011eef6f34a.gif">
-  <img src="github gif.gif">
-
 </div>
 
 ##
